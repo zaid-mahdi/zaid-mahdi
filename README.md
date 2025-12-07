@@ -1,16 +1,14 @@
-## Hi there 👋
+## hey there 👋
 
-<!--
-**zaid-mahdi/zaid-mahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Zaid, I build clean, practical, and real-world web applications.
+Currently diving deep into Laravel, database design, and full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## What I'm Working On
+I’m currently working with Laravel, improving my backend development skills and designing structured, scalable systems such as booking platforms and management dashboards.
+
+## My tools 
+include Laravel Herd, PHP, MySQL, JavaScript, Tailwind CSS, Git, and GitHub.
+
+## 
